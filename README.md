@@ -25,4 +25,4 @@ Users should be able to:
 
 ### Preview
 
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://hesam-fattahi.github.io/ping-coming-soon-page/)
